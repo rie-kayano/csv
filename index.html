@@ -80,7 +80,7 @@ function moveFunc(vol){
 
 $(function(){
   initFunc();//---初期化
-  $.get("",function(myData){resultArray = myData.split("\n")});
+  $.get("result.csv",function(myData){resultArray = myData.split("\n")});
   preloadFunc("images/lv0.png","images/lv1.png","images/lv2.png","images/lv3.png","images/lv4.png", "images/againOn.png");
   $("ul>li").click(quesFunc);
   $("#againButton").click(againFunc);
