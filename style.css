@@ -7,7 +7,7 @@ body{
   overflow:hidden;
   width:700px;
   height:500px;
-  background: url(https://github.com/rie-kayano/csv/blob/master/back_imag.PNG?raw=true) no-repeat 0 0;
+  background: url(https://github.com/rie-kayano/csv/blob/master/haikei.PNG?raw=true) no-repeat 0 0;
 }
 
 #qContainer {
@@ -56,7 +56,7 @@ ul {
 
 ul li {
 	padding: 17px 0px 0px 60px;
-  background: url(https://github.com/rie-kayano/csv/blob/master/button_botton.PNG?raw=true) no-repeat;
+  background: url(https://github.com/rie-kayano/csv/blob/master/ringotoka.PNG?raw=true) no-repeat;
 	width: 290px;
 	height: 33px;
 	
