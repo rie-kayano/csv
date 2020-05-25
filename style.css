@@ -1,5 +1,5 @@
 body{
-	.wf-nicomoji { font-family: "Nico Moji"; }
+	font-family: 'ヒラギノ丸ゴ ProN','Hiragino Maru Gothic ProN',sans-serif;
   font-size:16px;
 }
 
@@ -80,7 +80,7 @@ ul li.selected {
 	background: url(https://github.com/rie-kayano/csv/blob/master/kekka.PNG?raw=true) no-repeat 0 0;
 }
 #resultTitle{
-	margin:44px 0px 0px 20px;
+	margin:70px 0px 0px 30px;
 	width:400px;
 	float:left;
 	font-size:18px;
@@ -88,34 +88,35 @@ ul li.selected {
 }
 
 #resultPoint{
-	margin:22px 40px 0px 0px;
+	margin:22px 60px 0px 0px;
 	float:right;
 	color:#F00;
-	font-family:Georgia, "Times New Roman", Times, serif;
+	font-family: monospace;
 	font-size:40px;
 	text-align:right;
 }
 #resultLeft{
 	float:left;
-	margin:20px 0px 0px 20px;
+	margin:0px 0px 0px 20px;
 }
 #resultText{
 	width:290px;
-	height:180px;
+	height:100px;
 	font-size:12px;
 	line-height:1.5;
+	margin: 30px 0px 0px 10px;
 	color:#666;
 }
 
 #resultImage{
-	width:252px;
-	height:217px;
+	width:180px;
+	height:150px;
 	float:right;
-	margin:15px 20px 0px 0px;
+	margin:40px 50px 10px 0px;
 	background: url(images/lv4.png) no-repeat 0 0;
 }
 #againButton{
-	margin:0px 0px 0px 52px;
+	margin:0px 0px 80px 150px;
 	width:186px;
 	height:40px;
 	background: url(https://github.com/rie-kayano/csv/blob/master/againb.PNG?raw=true) no-repeat 0 0;
